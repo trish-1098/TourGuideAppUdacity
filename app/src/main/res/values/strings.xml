@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Tour Guide</string>
+    <string name="splash_boolean_key">splash_shown</string>
+    <string name="welcome_text">Welcome to Delhi Tour Guide</string>
+    <string name="start_text">Dive In</string>
 </resources>
